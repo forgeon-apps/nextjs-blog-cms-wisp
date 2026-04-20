@@ -1,4 +1,3 @@
-````md
 # ✨ Next.js 15 Blog + Wisp CMS for Forgeon
 
 A polished, content-first blog starter powered by **Next.js 15**, **React Server Components**, and **Wisp CMS** — ready to launch on **Forgeon**.
