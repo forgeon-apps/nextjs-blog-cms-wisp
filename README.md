@@ -180,9 +180,3 @@ Launch this blog on Forgeon instantly:
 Write beautifully. Deploy shamelessly. Rule your content kingdom.
 
 ```
-
-Kalau kamu mau, aku juga bisa bikin versi yang lebih:
-- **lebih marketing**
-- **lebih clean ala open-source**
-- atau **lebih Forgeon banget** dengan section khusus `Environment Variables on Forgeon`.
-```
