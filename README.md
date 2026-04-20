@@ -178,5 +178,3 @@ Launch this blog on Forgeon instantly:
 [![Deploy with Forgeon](https://forgeon.io/images/button-deploy/png/deploy-to-forgeon-6.png)](https://forgeon.io/projects?import=1&no_upload=1&auto=0&git_url=https%3A%2F%2Fgithub.com%2FWisp-CMS%2Fnextjs-blog-cms-wisp)
 
 Write beautifully. Deploy shamelessly. Rule your content kingdom.
-
-```
